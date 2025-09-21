@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1/Content/FirstPerson/Blueprints/BP_Interactuable.uasset",
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1/Content/FirstPerson/Blueprints/BPI_Interactuable.uasset",
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1/Content/FirstPerson/Blueprints/BP_NPC.uasset",
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1/Content/FirstPerson/Blueprints/E_Interactuables.uasset",
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1/Content/FirstPerson/Blueprints/BP_Planta.uasset",
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/9J/1AZZMQBDFFF1YEGQHULSVZ.uasset",
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/KX/5UB15IKCHODNGLWYR8IGUC.uasset"
+			]
+		}
+	]
+}
