@@ -1550,3 +1550,177 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.22-13.32.31:849][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
 [2025.09.22-13.32.31:856][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
 [2025.09.22-13.32.31:904][290]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: SeekCallback: Failed to seek to Offset=0, Origin=0 seek disabled
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B013D33A5-42C4-9AB3-C7A4-AF92171085CE%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 0 (Found bundle for host: 0x50d66080240 [serially])
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 6 (Closing connection)
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 8 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B013D33A5-42C4-9AB3-C7A4-AF92171085CE%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 9 (Found bundle for host: 0x50d66080240 [serially])
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 10 (Re-using existing connection with host api.epicgames.dev)
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 11 (We are completely uploaded and fine)
+[2025.09.22-13.35.21:956][131]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 12 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 13 (Connection died, retrying a fresh connect (retry count: 2))
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 14 (state.rewindbeforesend = TRUE)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 15 (Closing connection)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 16 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 17 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B013D33A5-42C4-9AB3-C7A4-AF92171085CE%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 18 (  Trying 52.22.163.148:443...)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 19 (Connected to api.epicgames.dev (52.22.163.148) port 443)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 20 (ALPN: curl offers http/1.1)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 21 (SSL reusing session ID)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 22 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 23 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 24 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 25 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 26 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 27 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 28 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 29 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 30 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 31 (ALPN: server accepted http/1.1)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 32 (Server certificate:)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 33 ( subject: CN=*.befa.live.use1a.on.epicgames.com)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 34 ( start date: Sep 18 00:00:00 2025 GMT)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 35 ( expire date: Oct 16 23:59:59 2026 GMT)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 36 ( subjectAltName: host "api.epicgames.dev" matched cert's "*.epicgames.dev")
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 37 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M01)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 38 ( SSL certificate verify ok.)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 39 (using HTTP/1.1)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 40 (seek callback returned error 2)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 41 (Closing connection)
+[2025.09.22-13.35.21:956][132]LogEOSSDK: Warning: LogHttp: 0000050D72116600: libcurl info message cache 42 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.22-13.35.22:288][132]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B013D33A5-42C4-9AB3-C7A4-AF92171085CE%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.09.22-13.35.32:622][163]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 314.297485
+[2025.09.22-13.35.34:955][170]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-13.35.34:955][170]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 316.296753, Update Interval: 303.202606
+[2025.09.22-13.38.15:759][267]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2025.09.22-13.38.15:763][267]LogContentBundle: [ThirdPersonMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2025.09.22-13.38.15:763][267]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.22-13.38.15:765][267]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.917 ms (total: 6.828 ms)
+[2025.09.22-13.38.15:765][267]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2025.09.22-13.38.15:833][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.09.22-13.38.15:835][267]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (1 blueprints)
+[2025.09.22-13.38.15:835][267]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.22-13.38.15:838][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002790s)
+[2025.09.22-13.38.15:838][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002822s)
+[2025.09.22-13.38.15:854][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.09.22-13.38.15:855][267]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.22-13.38.15:856][267]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.22-13.38.15:856][267]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.22-13.38.15:856][267]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.22-13.38.15:856][267]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.22-13.38.15:857][267]LogWorldPartition: Display: WorldPartition initialize took 1.203 ms (total: 35.693 ms)
+[2025.09.22-13.38.15:857][267]LogPlayLevel: PIE: World Init took: (0.002640s)
+[2025.09.22-13.38.15:858][267]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.22-13.38.15:858][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.22-13.38.15:858][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.22-13.38.15:858][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.22-13.38.15:858][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.22-13.38.15:858][267]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.22-13.38.15:858][267]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.22-13.38.15:858][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.22-13.38.15:858][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.22-13.38.15:858][267]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.22-13.38.15:858][267]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.22-13.38.15:858][267]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.22-13.38.15:859][267]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.22-13.38.15:891][267]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.22-13.38.15:891][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.22-13.38.15:891][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.22-13.38.15:891][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.22-13.38.15:891][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.22-13.38.15:891][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.09.22-13.38.15:895][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.22-13.38.15:895][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.22-13.38.15:895][267]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.22-13.38.15:895][267]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2025.09.22-13.38.15:895][267]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.22-13.38.15:924][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-13.38.15:924][267]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.09.22-13.38.15:927][267]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.22-15.38.15
+[2025.09.22-13.38.15:927][267]LogWorld: Bringing up level for play took: 0.001598
+[2025.09.22-13.38.15:929][267]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.09.22-13.38.15:935][267]PIE: El servidor ha iniciado sesión
+[2025.09.22-13.38.15:937][267]PIE: Tiempo de inicio total de la reproducción en el editor de 0,174 segundos.
+[2025.09.22-13.38.26:072][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-13.38.26:072][389]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.22-13.38.26:072][389]LogSlate: Window 'Previsualización de Prototip1ProjecteIII [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2025.09.22-13.38.26:077][389]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-13.38.26:077][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-13.38.26:077][389]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.22-13.38.26:080][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.22-13.38.26:083][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-13.38.26:103][389]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.22-13.38.26:103][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.22-13.38.26:104][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.22-13.38.26:112][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.09.22-13.38.26:153][391]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.09.22-13.38.32:777][175]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2025.09.22-13.38.32:782][175]LogContentBundle: [ThirdPersonMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2025.09.22-13.38.32:782][175]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.22-13.38.32:784][175]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.027 ms (total: 8.855 ms)
+[2025.09.22-13.38.32:785][175]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2025.09.22-13.38.32:849][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.09.22-13.38.32:851][175]LogPlayLevel: PlayLevel: Blueprint regeneration took 66 ms (1 blueprints)
+[2025.09.22-13.38.32:851][175]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.22-13.38.32:854][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002752s)
+[2025.09.22-13.38.32:854][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002780s)
+[2025.09.22-13.38.32:871][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.09.22-13.38.32:871][175]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.22-13.38.32:874][175]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.22-13.38.32:874][175]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.22-13.38.32:874][175]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.22-13.38.32:874][175]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.22-13.38.32:875][175]LogWorldPartition: Display: WorldPartition initialize took 1.311 ms (total: 37.004 ms)
+[2025.09.22-13.38.32:875][175]LogPlayLevel: PIE: World Init took: (0.003502s)
+[2025.09.22-13.38.32:875][175]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.22-13.38.32:875][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.22-13.38.32:875][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.22-13.38.32:875][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.22-13.38.32:875][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.22-13.38.32:875][175]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.22-13.38.32:875][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.22-13.38.32:875][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.22-13.38.32:875][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.22-13.38.32:875][175]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.22-13.38.32:875][175]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.22-13.38.32:875][175]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.22-13.38.32:879][175]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.22-13.38.32:909][175]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.22-13.38.32:909][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.22-13.38.32:909][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.22-13.38.32:909][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.22-13.38.32:909][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.22-13.38.32:909][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.09.22-13.38.32:911][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.22-13.38.32:911][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.22-13.38.32:911][175]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.22-13.38.32:911][175]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2025.09.22-13.38.32:911][175]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.22-13.38.32:936][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-13.38.32:936][175]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.09.22-13.38.32:938][175]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.22-15.38.32
+[2025.09.22-13.38.32:938][175]LogWorld: Bringing up level for play took: 0.001513
+[2025.09.22-13.38.32:941][175]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.09.22-13.38.32:947][175]PIE: El servidor ha iniciado sesión
+[2025.09.22-13.38.32:948][175]PIE: Tiempo de inicio total de la reproducción en el editor de 0,166 segundos.
+[2025.09.22-13.38.45:592][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-13.38.45:592][578]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.22-13.38.45:592][578]LogSlate: Window 'Previsualización de Prototip1ProjecteIII [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2025.09.22-13.38.45:596][578]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-13.38.45:597][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-13.38.45:597][578]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.22-13.38.45:599][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.22-13.38.45:603][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-13.38.45:623][578]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.22-13.38.45:623][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.22-13.38.45:625][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.22-13.38.45:632][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.09.22-13.38.45:670][580]LogPlayLevel: Display: Destroying online subsystem :Context_8
