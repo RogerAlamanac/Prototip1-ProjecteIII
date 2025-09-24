@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GY/LNPNUJZ1PJAVLDKWHBB9GQ.uasset",
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7L/1WMZUO9E1D6DH3XGJ7RPEE.uasset",
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/ThirdPerson/Effects/Interaction/BP_TestPick.uasset",
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/ThirdPerson/Effects/Interaction/WB_Pick.uasset",
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/ThirdPerson/Effects/Interaction/InteractionArea/BP_PickArea.uasset",
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/E4/ECADOTBILUEFXFS996SMR1.uasset",
+				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/J1/XVAHB18MU5GK65CNLDTG61.uasset",
 				"H:/Projete_3-P1/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"H:/Projete_3-P1/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/ThirdPerson/Input/Actions/IA_Flashlight.uasset",
 				"H:/Projete_3-P1/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/ThirdPerson/Input/IMC_Default.uasset",
@@ -47,8 +56,7 @@
 				"H:/Projete_3-P1/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
 				"H:/Projete_3-P1/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
 				"H:/Projete_3-P1/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-				"H:/Projete_3-P1/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/ThirdPerson/Effects/Interaction/WB_Interaction.uasset",
-				"C:/Users/Usuario/Desktop/TreballsUni/3r/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"H:/Projete_3-P1/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/ThirdPerson/Effects/Interaction/WB_Interaction.uasset"
 			]
 		}
 	]
