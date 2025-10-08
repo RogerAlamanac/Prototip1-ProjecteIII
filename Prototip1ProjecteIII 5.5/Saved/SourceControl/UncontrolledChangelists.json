@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
+				"C:/Users/AlbertMarchTolosa/Desktop/Prototip1-ProjecteIII/Prototip1ProjecteIII 5.5/Content/ThirdPerson/Effects/Interaction/WB_Screen.uasset",
+				"C:/Users/AlbertMarchTolosa/Desktop/Prototip1-ProjecteIII/Prototip1ProjecteIII 5.5/Content/ThirdPerson/Effects/Interaction/InteractableObjects/BP_ComputerInteractionActor.uasset",
+				"C:/Users/AlbertMarchTolosa/Desktop/Prototip1-ProjecteIII/Prototip1ProjecteIII 5.5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/1X/CV8UG4UMIJ67T4OXKB74BR.uasset",
+				"C:/Users/AlbertMarchTolosa/Desktop/Prototip1-ProjecteIII/Prototip1ProjecteIII 5.5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TN/VQV4LV60REES8CORW9ANPR.uasset",
 				"H:/Projete_3-P1/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"H:/Projete_3-P1/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/ThirdPerson/Input/Actions/IA_Flashlight.uasset",
 				"H:/Projete_3-P1/Prototip1-ProjecteIII/Prototip1ProjecteIII/Content/ThirdPerson/Input/IMC_Default.uasset",
